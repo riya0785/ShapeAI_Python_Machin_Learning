@@ -1,1 +1,1 @@
-# ShapeAI_Python_Machin_Learning
+# ShapeAI_Python_Machine_Learning
